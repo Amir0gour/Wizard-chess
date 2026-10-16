@@ -1,0 +1,6 @@
+{
+  "name": "Remix Wizard Chess 3D",
+  "description": "Interactive 3D Gothic Cathedral Wizard Chess featuring instant loading, Stockfish AI up to 3200 Elo, 1v1 in-person local pass-and-play with auto-flipping camera, cinematic melee captures, and stone shatter physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
